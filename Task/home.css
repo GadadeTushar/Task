@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+h1,h3{
+    color: rgb(247, 6, 207);
+}
+p{
+    color: rgb(247, 158, 226);
+}
+
+h2,h4 {
+    color: #120f11;
+}
+h6{
+    font-size: 20px;
+}
+
+.employee-section, .team-section {
+    margin-bottom: 20px;
+}
+
+.employee, .team-member1 {
+    background-color: #f8f8f8;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+
+}
+
+.employee, .team-member2 {
+    background-color: #f8f8f8;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+.employee, .team-member3 {
+    background-color: #f8f8f8;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+
+.employee h4, .team-member h4 {
+    margin-bottom: 10px;
+}
+
+.employee p, .team-member p {
+    margin: 0;
+}
+
+.employee-icon, .team-member-icon {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-right: 10px;
+}
